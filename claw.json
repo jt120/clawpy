@@ -1,0 +1,6 @@
+{
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "base_url": "https://api.deepseek.com/v1",
+  "active_skills": ["prompt-optimizer"]
+}
